@@ -15,3 +15,6 @@
 .project
 .strong-pm
 coverage
+CMakeLists.txt
+a.out
+cmake-build-debug
