@@ -16,7 +16,7 @@
 .strong-pm
 coverage
 CMakeLists.txt
-a.out
+*.out
 cmake-build-debug
 CMakeFiles
 clion-log.txt
