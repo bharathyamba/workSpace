@@ -9,12 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46ca3ea2-9898-4dc3-a0e4-b78011f741ed" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/a.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/queue.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stack.c" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="46ca3ea2-9898-4dc3-a0e4-b78011f741ed" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
